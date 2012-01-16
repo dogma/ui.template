@@ -1,0 +1,7 @@
+h1. jQuery ui.template
+
+This 'templating' system is _not_ meant as a replacement for Moustache or Haml-js or Eco. Templates built with this library don't have logic.
+
+Instead they have data bindings, events and handles returned for use by the code that works with them. This templating system is aimed more at providing widget gui, and it takes much of it's influence from dojo's approach to widget templates. (Evil!, I know).
+
+
